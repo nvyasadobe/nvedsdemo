@@ -1,7 +1,5 @@
 mountpoints:
-  /:
-    url: https://adobe.sharepoint.com/:f:/r/sites/nvedsdemo/Shared%20Documents/nvedsdemo/eds-commerce-storefront?csf=1&web=1&e=DmikaR
-    type: markup
+  /: https://adobe.sharepoint.com/:f:/r/sites/nvedsdemo/Shared%20Documents/nvedsdemo/eds-commerce-storefront?csf=1&web=1&e=DmikaR
 
 folders:
   /products/: /products/default
